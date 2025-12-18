@@ -1,8 +1,8 @@
-# ChatCue AI
+# ChatCue
 
 > Stop scrolling through chats. Start executing tasks.
 
-ChatCue AI transforms the chaos of constant messaging into a **clean, prioritized task list** powered by AI.
+ChatCue transforms the chaos of constant messaging into a **clean, prioritized task list** powered by AI.
 
 ## How it Works
 
@@ -17,7 +17,7 @@ Built with **OpenRouter LLMs** to understand context, detect urgency, and route 
 
 > "One inbox for all your work messages. No more hunting through threads."
 
-## Why ChatCue AI
+## Why ChatCue
 
 - Stop wasting time scrolling through chat history
 - Never miss an important request buried in group chats
